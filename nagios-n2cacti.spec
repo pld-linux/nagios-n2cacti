@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Connector to send Nagios performance data to Cacti
 Name:		nagios-n2cacti
 Version:	0.3.0
